@@ -1,0 +1,20 @@
+body {
+  background: url(https://i.pinimg.com/564x/fb/87/71/fb87712f68f6f09095779d07658f9f03.jpg) no-repeat center center fixed;
+  background-size: cover;
+  height: 100%;
+  overflow: hidden;
+}
+
+.Buttons {
+    width: 100px;
+    height: 30px;
+    background-color: white;
+    border-radius: 12px;
+    border-color: grey;
+}
+.mainTable {
+  background-color: blueviolet;
+  border-color: black;
+  font-weight: bold;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif; 
+}
